@@ -1,0 +1,3 @@
+-r common.txt
+
+awsebcli==3.14.6
